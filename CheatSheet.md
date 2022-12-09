@@ -38,3 +38,9 @@ drop table tableName;
 drop database databaseName;
 drop schema schemaName;
 ```
+
+## Inserting Data into a table
+```sql
+insert into tableName values (values);
+insert into tableName (columnList) values (values);
+```
